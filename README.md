@@ -20,11 +20,11 @@ Me enfoco en lo que ocurre detrás de escena: **arquitectura backend, bases de d
 
 ---
 
-#### 🚀 En qué suelo trabajar
+#### Lo que sé hasta el momento
 - ⚙️ **Backend & Sistemas Distribuidos:** Arquitectura cliente-servidor, RPC y despliegue de servicios en cloud (AWS EC2).
-- 🗄️ **Ingeniería de Datos:** Modelado NoSQL, diseño de ODMs personalizados y pipelines de agregación en MongoDB.
-- 🤖 **Automatización & Scripting:** Scripts en Python y entornos Linux para eliminar tareas repetitivas y optimizar flujos de trabajo.
-- 🧠 **Machine Learning / Deep Learning:** Modelos de clasificación y visión por computador (CNNs, Transfer Learning).
+- 🗄️ **Bases de Datos & Ingeniería de Datos:** Modelado NoSQL (documental con MongoDB, grafos con Neo4j y clave-valor en memoria con Redis), diseño de ODMs personalizados y pipelines de agregación.
+- 💻 **Programación de Sistemas & POO:** Desarrollo estructurado y orientado a objetos con C, C++ y Java.
+- 🧠 **Inteligencia Artificial:** Modelos de clasificación y visión por computador (CNNs, Transfer Learning).
 
 ---
 
