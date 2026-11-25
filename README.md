@@ -1,7 +1,7 @@
 ### Hola, soy Iker de la Fuente 👋
 
 Estudiante de **Ingeniería de Software (Mención en Ingeniería de Datos)** en **U-tad**.  
-Me enfoco en lo que ocurre detrás de escena: **arquitectura backend, bases de datos, automatización, sistemas distribuidos e inteligencia artificial**.
+Me enfoco en lo que ocurre detrás de escena: **arquitectura backend, bases de datos, sistemas distribuidos e inteligencia artificial**.
 
 ---
 
